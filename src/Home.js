@@ -20,7 +20,7 @@ function Home() {
           image="https://images.cdn3.buscalibre.com/fit-in/360x360/c1/fa/c1fa8375462b2287988d59a19f5a523e.jpg"
         />
         <Products
-          id="1234567"
+          id="072524322"
           title="title"
           price={11.98}
           rating={3}
@@ -36,14 +36,14 @@ function Home() {
           image=" https://images-na.ssl-images-amazon.com/images/I/71Swqqe7XAL._AC_SX466_.jpg"
         />
         <Products
-          id="1234567"
+          id="8947464"
           title="title"
           price={11.98}
           rating={3}
           image="https://media.very.co.uk/i/very/P6LTG_SQ1_0000000071_CHARCOAL_SLf?%24300x400_retinamobilex2%24"
         />
         <Products
-          id="1234567"
+          id="27652422"
           title="title"
           price={11.98}
           rating={3}
